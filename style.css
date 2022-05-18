@@ -89,7 +89,7 @@ header .auth .btn {
 }
 .home-bg .home {
 	display: flex;
-	min-height: 94vh;
+	min-height: 90vh;
 	align-items: center;
 }
 .home-bg .home .content {
@@ -98,7 +98,7 @@ header .auth .btn {
 
 }
 .home-bg .home .content h3 {
-	font-size: 7rem;
+	font-size: 8rem;
 	color: #fff;
 	font-family: "Merienda One", cursive;
     text-transform: capitalize;
